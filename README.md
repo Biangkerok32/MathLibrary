@@ -33,3 +33,5 @@ Add it in your root build.gradle at the end of repositories:
     
    
     Example - Math.Plus(10,20); // Addition is 30
+    
+    int sum =  Math.Plus(10, 20);  // Addition
