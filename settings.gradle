@@ -1,0 +1,2 @@
+include ':app', ':shubham_math'
+rootProject.name='MathLibrary'
